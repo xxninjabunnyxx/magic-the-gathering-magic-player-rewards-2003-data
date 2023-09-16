@@ -1,0 +1,185 @@
+---
+object: card
+id: 6e1fc8db-f4a3-4f9c-bfab-64d5a3968435
+oracle_id: a62a374d-ccdd-418d-9bcd-5ca8bf9b05e8
+multiverse_ids: []
+tcgplayer_id: 78615
+name: Bear
+lang: en
+released_at: '2003-01-01'
+uri: https://api.scryfall.com/cards/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435
+scryfall_uri: https://scryfall.com/card/p03/4/bear?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg?1614664095
+  normal: https://cards.scryfall.io/normal/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg?1614664095
+  large: https://cards.scryfall.io/large/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg?1614664095
+  png: https://cards.scryfall.io/png/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.png?1614664095
+  art_crop: https://cards.scryfall.io/art_crop/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg?1614664095
+  border_crop: https://cards.scryfall.io/border_crop/front/6/e/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435.jpg?1614664095
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Bear
+oracle_text: ''
+power: '2'
+toughness: '2'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: 1b9296ca-39a8-4aad-be92-0a56c704e950
+  component: combo_piece
+  name: Ayula's Influence
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/1b9296ca-39a8-4aad-be92-0a56c704e950
+- object: related_card
+  id: c761e555-7277-46e8-857a-8a40d31ce2f9
+  component: combo_piece
+  name: Fade from History
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/c761e555-7277-46e8-857a-8a40d31ce2f9
+- object: related_card
+  id: 79a840ed-91cf-45ea-bad2-757856e88544
+  component: meld_part
+  name: Argoth, Sanctum of Nature
+  type_line: Land
+  uri: https://api.scryfall.com/cards/79a840ed-91cf-45ea-bad2-757856e88544
+- object: related_card
+  id: 8c491b56-631f-48f2-a0d7-3df1d2488a30
+  component: combo_piece
+  name: Titania's Command
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/8c491b56-631f-48f2-a0d7-3df1d2488a30
+- object: related_card
+  id: d8855d65-98fc-4b5f-bd68-95d2fda6345f
+  component: combo_piece
+  name: Bearscape
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/d8855d65-98fc-4b5f-bd68-95d2fda6345f
+- object: related_card
+  id: fdb9565f-5b09-4127-b169-3146079dab84
+  component: combo_piece
+  name: Words of Wilding
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/fdb9565f-5b09-4127-b169-3146079dab84
+- object: related_card
+  id: 0edc37c6-b6a8-424f-95dd-928d03c28542
+  component: combo_piece
+  name: Kamahl's Summons
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/0edc37c6-b6a8-424f-95dd-928d03c28542
+- object: related_card
+  id: 6e1fc8db-f4a3-4f9c-bfab-64d5a3968435
+  component: token
+  name: Bear
+  type_line: Token Creature — Bear
+  uri: https://api.scryfall.com/cards/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435
+- object: related_card
+  id: eadb3a01-f610-4df1-972b-7dd8c8bccdb7
+  component: combo_piece
+  name: Path to the World Tree
+  type_line: Enchantment
+  uri: https://api.scryfall.com/cards/eadb3a01-f610-4df1-972b-7dd8c8bccdb7
+- object: related_card
+  id: 32b71998-db98-4d7b-9cee-1031fd69ef0d
+  component: combo_piece
+  name: Flaxen Intruder // Welcome Home
+  type_line: Creature — Human Berserker // Sorcery — Adventure
+  uri: https://api.scryfall.com/cards/32b71998-db98-4d7b-9cee-1031fd69ef0d
+- object: related_card
+  id: 917c5e37-c15e-4260-b380-f1c73df2bf41
+  component: combo_piece
+  name: Caller of the Claw
+  type_line: Creature — Elf
+  uri: https://api.scryfall.com/cards/917c5e37-c15e-4260-b380-f1c73df2bf41
+- object: related_card
+  id: 75d22bb3-824e-4699-8352-42392af307d1
+  component: combo_piece
+  name: Grizzly Fate
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/75d22bb3-824e-4699-8352-42392af307d1
+- object: related_card
+  id: ce2c30dd-f28a-4400-b6ea-f26462e45afc
+  component: combo_piece
+  name: Mother Bear
+  type_line: Creature — Bear
+  uri: https://api.scryfall.com/cards/ce2c30dd-f28a-4400-b6ea-f26462e45afc
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: dfa906ff-63d8-4065-abef-809988337288
+set: p03
+set_name: Magic Player Rewards 2003
+set_type: promo
+set_uri: https://api.scryfall.com/sets/dfa906ff-63d8-4065-abef-809988337288
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap03&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p03?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6e1fc8db-f4a3-4f9c-bfab-64d5a3968435/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa62a374d-ccdd-418d-9bcd-5ca8bf9b05e8&unique=prints
+collector_number: '4'
+digital: false
+rarity: common
+flavor_text: Bears get vicious when they don't sleep. This one hasn't slept in ages.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Glen Angus
+artist_ids:
+- 7be3b9e4-de9b-4a3d-884e-e67b9681d409
+illustration_id: e31f6754-175d-4985-96bd-74e8c350b87c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+prices:
+  usd: '3.93'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Bear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Bear&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Bear
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78615?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bear&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bear&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

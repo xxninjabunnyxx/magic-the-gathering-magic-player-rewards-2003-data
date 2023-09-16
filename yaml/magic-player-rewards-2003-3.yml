@@ -1,0 +1,147 @@
+---
+object: card
+id: f3b8ae33-f0c3-4fe7-8121-41307d13bb4a
+oracle_id: 9ac81d75-2bec-46ab-84e1-2fc893d45219
+multiverse_ids: []
+tcgplayer_id: 78630
+name: Sliver
+lang: en
+released_at: '2003-01-01'
+uri: https://api.scryfall.com/cards/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a
+scryfall_uri: https://scryfall.com/card/p03/3/sliver?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg?1623693995
+  normal: https://cards.scryfall.io/normal/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg?1623693995
+  large: https://cards.scryfall.io/large/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg?1623693995
+  png: https://cards.scryfall.io/png/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.png?1623693995
+  art_crop: https://cards.scryfall.io/art_crop/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg?1623693995
+  border_crop: https://cards.scryfall.io/border_crop/front/f/3/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a.jpg?1623693995
+mana_cost: ''
+cmc: 0.0
+type_line: Token Creature — Sliver
+oracle_text: ''
+power: '1'
+toughness: '1'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 441a387b-e18a-41c7-84bb-bb7e354f4f2d
+  component: combo_piece
+  name: Brood Sliver
+  type_line: Creature — Sliver
+  uri: https://api.scryfall.com/cards/441a387b-e18a-41c7-84bb-bb7e354f4f2d
+- object: related_card
+  id: 46ad9b2c-4616-4c94-a9f4-006ccb4c4cf5
+  component: combo_piece
+  name: Rukarumel, Biologist
+  type_line: Legendary Creature — Human Wizard
+  uri: https://api.scryfall.com/cards/46ad9b2c-4616-4c94-a9f4-006ccb4c4cf5
+- object: related_card
+  id: 618dbae8-7e3f-47ba-8f02-292047e86a05
+  component: combo_piece
+  name: Riptide Island
+  type_line: Plane — Dominaria
+  uri: https://api.scryfall.com/cards/618dbae8-7e3f-47ba-8f02-292047e86a05
+- object: related_card
+  id: f3b8ae33-f0c3-4fe7-8121-41307d13bb4a
+  component: token
+  name: Sliver
+  type_line: Token Creature — Sliver
+  uri: https://api.scryfall.com/cards/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a
+- object: related_card
+  id: '096cff82-28eb-4096-be1d-a02b9a56e682'
+  component: combo_piece
+  name: Sliver Queen
+  type_line: Legendary Creature — Sliver
+  uri: https://api.scryfall.com/cards/096cff82-28eb-4096-be1d-a02b9a56e682
+- object: related_card
+  id: 93fa40de-1bf2-46ef-8cb8-7331386990d1
+  component: combo_piece
+  name: Hive Stirrings
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/93fa40de-1bf2-46ef-8cb8-7331386990d1
+- object: related_card
+  id: 04541650-6ee7-4825-984e-4794b306c274
+  component: combo_piece
+  name: Sliver Hive
+  type_line: Land
+  uri: https://api.scryfall.com/cards/04541650-6ee7-4825-984e-4794b306c274
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: dfa906ff-63d8-4065-abef-809988337288
+set: p03
+set_name: Magic Player Rewards 2003
+set_type: promo
+set_uri: https://api.scryfall.com/sets/dfa906ff-63d8-4065-abef-809988337288
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Ap03&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/p03?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f3b8ae33-f0c3-4fe7-8121-41307d13bb4a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ac81d75-2bec-46ab-84e1-2fc893d45219&unique=prints
+collector_number: '3'
+digital: false
+rarity: common
+flavor_text: Slivers don't learn. They just know.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tony Szczudlo
+artist_ids:
+- 1952c90b-a5a7-4328-9f7c-e11064f59daf
+illustration_id: b41c5151-36bd-4734-91a9-992e43f6a7bc
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- playerrewards
+prices:
+  usd: '38.93'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sliver&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sliver
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/78630?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sliver&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sliver&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
